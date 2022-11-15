@@ -109,7 +109,7 @@ or [gfx-portability](https://github.com/gfx-rs/portability).
 This is the master repository that contains four [submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). To get the repository and all submodules, use the following command:
 
 ```
-git clone --recursive https://github.com/DiligentGraphics/DiligentEngine.git
+git clone --recursive https://github.com/DaKup/DiligentEngine.git
 ```
 
 When updating existing repository, don't forget to update all submodules:
