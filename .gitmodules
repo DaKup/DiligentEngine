@@ -7,6 +7,7 @@
 [submodule "DiligentSamples"]
 	path = DiligentSamples
 	url = https://github.com/DaKup/DiligentSamples.git
+	branch = master
 [submodule "DiligentFX"]
 	path = DiligentFX
 	url = https://github.com/DaKup/DiligentFX.git
